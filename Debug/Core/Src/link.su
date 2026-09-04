@@ -1,0 +1,15 @@
+link.c:17:6:link_init	4	static
+link.c:23:6:proto_dma_active	4	static
+link.c:27:13:send_marker	24	static
+link.c:33:13:dma_window_open_tx	16	static
+link.c:40:13:dma_window_close_tx	8	static
+link.c:45:13:dma_window_open_rx	16	static
+link.c:52:13:dma_window_close_rx	8	static
+link.c:59:16:variant1_byte	24	static
+link.c:66:6:handle_dma_on	32	static
+link.c:78:6:handle_dma_off	16	static
+link.c:90:6:handle_set_baud	40	static
+link.c:100:6:handle_config_push	24	static
+link.c:114:6:proto_on_dma_complete	8	static
+link.c:119:6:proto_on_dma_send_failed	8	static
+link.c:124:6:proto_on_config_rx_complete	8	static

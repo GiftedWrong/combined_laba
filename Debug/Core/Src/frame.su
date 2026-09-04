@@ -1,0 +1,11 @@
+frame.c:16:6:ring_init	24	static
+frame.c:23:6:ring_put	24	static
+frame.c:32:6:ring_get	16	static
+frame.c:39:10:ring_count	24	static
+frame.c:45:6:ring_empty	16	static
+frame.c:49:9:proto_xor	24	static
+frame.c:55:6:frame_init	8	static
+frame.c:60:6:proto_feed	16	static
+frame.c:64:6:proto_send_frame	32	static
+frame.c:79:6:frame_send_short	24	static
+frame.c:90:6:proto_task	16	static

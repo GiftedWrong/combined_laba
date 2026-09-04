@@ -1,0 +1,5 @@
+ring_buffer.c:4:6:buffer_init	24	static
+ring_buffer.c:11:6:buffer_addToEnd	24	static
+ring_buffer.c:19:6:buffer_getFromFront	16	static
+ring_buffer.c:26:10:buffer_count	24	static
+ring_buffer.c:32:6:buffer_isEmpty	16	static
